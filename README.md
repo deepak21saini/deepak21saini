@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Deepak
+🔹 Founder of Nascenture | Tech Enthusiast | AI & Web Development Expert
 
-<!--
-**deepak21saini/deepak21saini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I run Nascenture, a software development company specializing in:
 
-Here are some ideas to get you started:
+💻 Web & Mobile App Development (React, Next.js, Laravel, Flutter)
+🤖 AI & Machine Learning (NLP, Computer Vision)
+☁️ Cloud & DevOps (AWS, Docker, CI/CD)
+🔗 Blockchain & Web3 Solutions
+🚀 About Nascenture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+At Nascenture, we help businesses scale with cutting-edge technology solutions. We focus on:
+✅ Custom Web & Mobile Apps
+✅ AI & Automation
+✅ E-commerce & SaaS Development
+
+📍 Visit Us: 🌐 nascenture.com
