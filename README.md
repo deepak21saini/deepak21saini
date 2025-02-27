@@ -1,17 +1,20 @@
-Hi, I'm Deepak
-🔹 Founder of Nascenture | Tech Enthusiast | AI & Web Development Expert
-
-I run Nascenture, a software development company specializing in:
-
-💻 Web & Mobile App Development (React, Next.js, Laravel, Flutter)
-🤖 AI & Machine Learning (NLP, Computer Vision)
+<h1>🚀 Hi, I'm Deepak</h1>
+<b>🔹 Founder of Nascenture | Tech Enthusiast | AI & Web Development Expert</b>
+</br></br>
+I lead Nascenture, a cutting-edge [software development company](https://www.nascenture.com/) specializing in:
+</br></br>
+💻 Web & Mobile App Development (React, Angular, Next.js, Laravel, Flutter)
+</br>
+🤖 AI & Machine Learning (NLP, AI Bots, Computer Vision)
+</br>
 ☁️ Cloud & DevOps (AWS, Docker, CI/CD)
+</br>
 🔗 Blockchain & Web3 Solutions
-🚀 About Nascenture
+</br></br>
 
-At Nascenture, we help businesses scale with cutting-edge technology solutions. We focus on:
-✅ Custom Web & Mobile Apps
-✅ AI & Automation
-✅ E-commerce & SaaS Development
-
-📍 Visit Us: 🌐 nascenture.com
+<b>Let's Connect!</b>
+I’m always open to discussing new ideas, collaborations, and innovative tech solutions. Whether you're a startup looking to scale or an enterprise in need of digital transformation, let's build something amazing together!
+</br></br>
+🌐 Website: [nascenture.com](https://www.nascenture.com/)
+</br>
+📧 Email: info@nascenture.com
