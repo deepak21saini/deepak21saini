@@ -1,4 +1,4 @@
-<h1>🚀 Hi, I'm Deepak</h1>
+<b><h1>🚀 Hi, I'm Deepak</h1></b>
 <b>🔹 Founder of Nascenture | Tech Enthusiast | AI & Web Development Expert</b>
 </br></br>
 I lead Nascenture, a cutting-edge [software development company](https://www.nascenture.com/) specializing in:
@@ -11,8 +11,8 @@ I lead Nascenture, a cutting-edge [software development company](https://www.nas
 </br>
 🔗 Blockchain & Web3 Solutions
 </br></br>
-
 <b>Let's Connect!</b>
+</br></br>
 I’m always open to discussing new ideas, collaborations, and innovative tech solutions. Whether you're a startup looking to scale or an enterprise in need of digital transformation, let's build something amazing together!
 </br></br>
 🌐 Website: [nascenture.com](https://www.nascenture.com/)
