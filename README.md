@@ -1,7 +1,7 @@
 <b><h1>🚀 Hi, I'm Deepak</h1></b>
 <b>🔹 Founder of Nascenture | Tech Enthusiast | AI & Web Development Expert</b>
 </br></br>
-I lead Nascenture, a cutting-edge [software development company](https://www.nascenture.com/) specializing in:
+I lead Nascenture, a cutting-edge [software development company](https://www.nascenture.com/software-development/) specializing in:
 </br></br>
 💻 Web & Mobile App Development (React, Angular, Next.js, Laravel, Flutter)
 </br>
